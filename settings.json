@@ -1,0 +1,23 @@
+{
+
+    "workbench.colorCustomizations": {
+    
+       //"editorError.border": "#ff0000",
+        "editor.background": "#000000", // ide background
+        "editor.foreground":  "#ffffff", // ide foreground
+ 
+
+    },
+
+
+    "editor.tokenColorCustomizations": {
+        "comments" : "#04ff00", // comments
+        "functions" : "#9000ff", // functions
+        "strings" : "#ff6f00", // strings
+        "types": "#fff700", // object identifiers
+        "numbers": "#00ffd5", // numbers
+        "keywords": "#ff0095", // int, char, double, return, void
+        "variables": "#015d15"
+    }
+
+}
