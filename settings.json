@@ -3,21 +3,32 @@
     "workbench.colorCustomizations": {
     
        //"editorError.border": "#ff0000",
-        "editor.background": "#000000", // ide background
+        "editor.background": "#1A232D", // ide background
         "editor.foreground":  "#ffffff", // ide foreground
+        "activityBar.background": "#10151b", // Far left
+        "activityBar.activeBackground": "#c7c0c0", // Active color far left
+        "activityBar.border": "#000000", // Between panels 1 and 2
+        "sideBar.background": "#151c25", // Second from left
+        "sideBar.border": "#000000", // Between panels 2 and 3
+        "editorGroupHeader.tabsBackground": "#231e1e", // Tabs background
+        "tab.inactiveBackground": "#404040", // Inactive Tabs
+        "tab.inactiveForeground": "#ffffff"
+
+
+
  
 
     },
 
 
     "editor.tokenColorCustomizations": {
-        "comments" : "#04ff00", // comments
-        "functions" : "#9000ff", // functions
-        "strings" : "#ff6f00", // strings
-        "types": "#fff700", // object identifiers
-        "numbers": "#00ffd5", // numbers
-        "keywords": "#ff0095", // int, char, double, return, void
-        "variables": "#015d15"
+        "comments" : "#9A9A9A", // comments
+        "functions" : "#57D6E4", // functions
+        "strings" : "#a3ec67", // strings
+        "types": "#FAB16C", // object identifiers
+        "numbers": "#FBED5D", // numbers
+        "keywords": "#e270ff", // int, char, double, return, void
+        "variables": "#ffffff"
     }
 
 }
